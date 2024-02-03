@@ -1,7 +1,5 @@
-<pre>Welcome to Fusion Games.
-this is just a game website project
+Fusion games is moving to gitlab.
 
-Hyra games X Galaxy Network
-</pre>
+
 
 
